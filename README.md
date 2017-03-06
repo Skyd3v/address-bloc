@@ -1,2 +1,6 @@
-This app was my first introduction to using RUBY so we create
-an app. The app imports addresses from a file so a user can check inputs via different menu options.
+Address Bloc
+A small command-line ruby program to manage an in-memory list of contact information. 
+
+* Add, edit delete address entries
+* Load entries from CSV
+* Search by Name
